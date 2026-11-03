@@ -1,23 +1,23 @@
 # Null Set Labs
 
-A youth-led research lab building open tools across robotics, food systems and access, and related research.
+A youth-led research lab. Software and data analysis in robotics and in food systems and access.
 
 Website: [nullsetlabs.org](https://nullsetlabs.org/)
 
 ## Robotics
 
-[robotics.nullsetlabs.org](https://robotics.nullsetlabs.org/): open tools and statistical research for competition robotics, plus space-systems concepts at the edge of robotics and biology.
+[robotics.nullsetlabs.org](https://robotics.nullsetlabs.org/): software and data analysis for the VEX Robotics Competition, and a completed concept study on NASA spaceflight plant data.
 
 | Project | Status | Link |
 |---|---|---|
-| VEX Visualizer by Arjun: season tracker for the VEX V5 Robotics Competition 2026-2027 (Override), with the skills leaderboard, TrueSkill rankings, signature event results and Worlds qualifiers | Live | [vex.nullsetlabs.org/visualizer](https://vex.nullsetlabs.org/visualizer/) |
+| VEX Visualizer by Arjun: season tracker for the VEX V5 Robotics Competition 2026-2027 (Override), with the skills leaderboard, TrueSkill ratings, signature event results and Worlds qualifiers | Live | [vex.nullsetlabs.org/visualizer](https://vex.nullsetlabs.org/visualizer/) |
 | VEX hub: all VEX tools on one page | Live | [vex.nullsetlabs.org](https://vex.nullsetlabs.org/) |
 | Worlds 2026 dashboard: last season's VEX Worlds dashboard | Archive | [vex.nullsetlabs.org/visualizer/worlds-2026](https://vex.nullsetlabs.org/visualizer/worlds-2026/) |
 | LEAF-Link: lunar plant-stress study | Completed | [robotics.nullsetlabs.org/leaf-link](https://robotics.nullsetlabs.org/leaf-link/) |
 
 ## Food Systems and Access
 
-[food.nullsetlabs.org](https://food.nullsetlabs.org/): research and tools for nutritional quality, community food systems, and the economics of food access.
+[food.nullsetlabs.org](https://food.nullsetlabs.org/): research and software on food bank operations, access to food, and nutritional quality ratings.
 
 | Project | Status | Link |
 |---|---|---|
